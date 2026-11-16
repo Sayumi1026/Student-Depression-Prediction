@@ -1,0 +1,8 @@
+[2025-09-21 07:06:16.517866] Pipeline started
+[2025-09-21 07:06:16.524518] Loaded dataset
+[2025-09-21 07:06:16.529958] Handled missing values
+[2025-09-21 07:06:16.551583] Removed outliers using IQR
+[2025-09-21 07:06:16.557953] Applied StandardScaler
+[2025-09-21 07:06:16.562141] Saved final dataset to outputs
+[2025-09-21 07:06:16.568739] Generated EDA visualizations
+[2025-09-21 07:06:16.572849] Pipeline finished successfully
